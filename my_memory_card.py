@@ -4,9 +4,9 @@ from random import*
 
 app = QApplication([])
 windows = QWidget()
-windows.setWindowTitle("Memori Card")
+windows.setWindowTitle("Memori cloob")
 
-windows.resize(350, 250)
+windows.resize(600, 400)
 
 qlechen = QLabel("Какой национальности не существует?")
 
